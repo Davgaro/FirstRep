@@ -1,0 +1,16 @@
+footer{
+width: 100%;
+
+}
+
+.piedepagina{
+text-align: center;
+
+}
+
+.ajusteicono{
+
+    display: inline-flex;
+    margin: 50px 35px;
+
+}

@@ -1,0 +1,16 @@
+.main_header{     
+    width: 100%;
+    height: 110px;
+    z-index: 101;
+    background: lightcoral;
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 0px;
+}
+.bloquetitulo{
+    background: yellow;
+    margin: auto;
+    text-align: center;
+    padding-top: 15px;
+    }
